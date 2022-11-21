@@ -33,7 +33,7 @@ const client = new Client({
     ],
     presence: {
         activities: [{
-            name: `Sponsored By QBHOST.EU`,
+            name: `https://dsc.gg/logistack`,
             type: "WATCHING",
         }],
         status: "online"
